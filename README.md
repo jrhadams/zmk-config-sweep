@@ -1,3 +1,4 @@
-ZMK Config for Ferris
+ZMK Config for Ferris Sweep
 
-Experimental, various size layouts in the revision history.
+
+
